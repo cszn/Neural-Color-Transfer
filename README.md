@@ -95,20 +95,21 @@ Image Color Transfer
 </p>
 
 <p align="center">
+  <img src="static/images/static/triptychs/8.png" width="90%" alt="Content, style, and color transfer result for example 8"/>
+</p>
+
+<p align="center">
   <img src="static/images/static/triptychs/1.png" width="90%" alt="Content, style, and color transfer result for example 1"/>
 </p>
 
 <p align="center">
-  <img src="static/images/static/triptychs/8.png" width="90%" alt="Content, style, and color transfer result for example 8"/>
+  <img src="static/images/static/triptychs/2.png" width="90%" alt="Content, style, and color transfer result for example 2"/>
 </p>
 
 <p align="center">
   <img src="static/images/static/triptychs/3.png" width="90%" alt="Content, style, and color transfer result for example 3"/>
 </p>
 
-<p align="center">
-  <img src="static/images/static/triptychs/2.png" width="90%" alt="Content, style, and color transfer result for example 2"/>
-</p>
 
 
 <!-- <p align="center">
